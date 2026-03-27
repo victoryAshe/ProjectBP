@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Too Large Assets
+Content/ParagonMinions/*
+
 # Compiled Object files
 *.slo
 *.lo
