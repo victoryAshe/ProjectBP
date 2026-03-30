@@ -3,6 +3,12 @@
 
 # Too Large Assets
 Content/ParagonMinions/*
+Content/Dungeon/*
+
+# ParagonAgora Assets
+Content/ParagonProps/*
+Content/KiteDemo/*
+Content/SampleMap/*
 
 # Compiled Object files
 *.slo
